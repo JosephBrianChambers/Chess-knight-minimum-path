@@ -10,7 +10,8 @@ This script determines the shortest path between two points on a chessboard a kn
 Run from commmand line. 
 First argument : starting chess square in x,y coordinates (corner square [0,0])
 Second argrment: target chess square in x,y coordinates 
-example run command: $ ruby knight_min_path.rb [0,0] [3,1]
+example run command: 
+$ ruby knight_min_path.rb [0,0] [3,1]
 
 ## Todo
 
